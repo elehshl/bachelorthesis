@@ -1,0 +1,80 @@
+\input{./preamble.tex}
+
+\newcommand*{\mytitle}{Name of thesis} % Titel
+\newcommand*{\myinstitute}{Department Lippstadt 2} % Institut
+
+
+\newcommand*{\myauthor}{Name of student} % Autoren
+\newcommand*{\myreporttype}{Bachelor Thesis} % Bericht-Typ
+\newcommand*{\mygraduation}{Bachelor of Engineering} % Vollständige Anschrift
+
+
+
+\newcommand*{\firstexaminer}{Prof. Dr. ....} 
+\newcommand*{\secondexaminer}{xyz}  
+\newcommand*{\mydate}{\today} 
+
+
+% ============= Dokumentbeginn =============
+
+\begin{document}
+
+% Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+\pagestyle{empty}
+
+\include{cover}	% Einbinden der Titelseite
+\newpage 					% Um Seite nach der Titelseite einzubinden -> bei eigener Titelseite und nicht der Latex-Version erforderlich
+\thispagestyle{empty}
+\quad 
+\newpage
+\pagenumbering{Roman}
+ 
+\cleardoubleoddpage
+
+
+
+
+
+\tableofcontents			%Inhaltsverzeichnis
+
+
+%\chapter*{Abkürzungsverzeichnis}
+%	\begin{acronym}[4GDH]	% Zur Formatierung hier die längste Abkürzung des Verzeichnisses eintragen
+%		\acro{4GDH}{4th Generation District Heating} 	
+%	\end{acronym}
+
+\pagestyle{fancy}
+
+\input{chapters/01Introduction}%link to chapters
+\input{chapters/02Fundamentals}
+\input{chapters/03RelatedWork}
+\input{chapters/04Analysis}
+\input{chapters/05DesignImplementation}
+\input{chapters/06Evaluation}
+\input{chapters/07SummaryOutlook}
+%Literaturverzeichnis
+\newpage
+\lhead{}
+\rhead{\leftmark}
+\addcontentsline{toc}{chapter}{References}
+
+\bibliography{References}
+\bibliographystyle{alpha}
+
+
+\listoffigures				%Verzeichnis aller Bilder
+\listoftables				%Verzeichnis aller Tabellen
+%list of definitions, ...
+
+\chapter*{Affidavit}
+I <your full name> herewith declare that I have composed the present paper and work by myself and without use of any other than the cited sources and aids. Sentences or parts of sentences quoted literally are marked as such; other references with regard to the statement and scope are indicated by full details of the publications concerned. The paper and work in the same or similar form has not been submitted to any examination body and has not been published. This paper was not yet, even in part, used in another examination or as a course performance.
+. ~\\
+Lippstadt,  \today\\[.6cm] %<city>, <date>
+Name of student\\ % signature
+\rule[0.5em]{20em}{0.5pt}
+
+\appendix
+
+\include{chapters/08Appendix}
+
+\end{document}
