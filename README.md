@@ -1,4 +1,6 @@
 # How to "bachelor thesis"
+![thesis-stare](https://user-images.githubusercontent.com/43642275/231375432-02bbe973-9097-4598-b1f4-0722e1b2f20d.gif)
+
 
 ## Thesis
 1. Download the repository as zip
