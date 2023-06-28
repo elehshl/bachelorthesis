@@ -21,5 +21,6 @@ In the list of abbreviations only those abbreviations are shown which are used i
 
 ### Extras
 - [Grammarly](https://app.grammarly.com/)
+- [Zotero](https://www.zotero.org/)
 ## Presentation
 
