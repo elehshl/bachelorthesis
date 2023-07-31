@@ -19,6 +19,10 @@
 In the list of abbreviations only those abbreviations are shown which are used in the text. Use in the text looks like this: \ac{abbreviation}
 - **Add or delete chapters:** In the main.tex you will find from line 47-54 the inclusion of the chapters. There you can add or delete chapters. If you want to add a chapter here, you should also create a new .tex file in the "Chapters" folder and refer to it in main.tex.
 
+### Infos
+- **Numbers:** In general, English numbers are only written out in full when they introduce a sentence or when small quantities are involved in a text, i.e. one (1) to nine (9). From ten (10) onwards, numbers are usually written numerically (i.e. as a number).
+- **Citation:** to add space automatically but don't write the source in the next line just use ``` ~\cite{citation} ```
+
 ### Extras
 - [Grammarly](https://app.grammarly.com/)
 - [Zotero](https://www.zotero.org/)
