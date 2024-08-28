@@ -7,7 +7,7 @@
 ### Let's get started
 1. Download the repository as zip
 2. Open the zip file in a latex editor. (How to make Latex ready for use can be found [here](https://www.wwu.edu/faculty/curgus/Courses/LaTeX/Getting_Started_with_LaTeX.html). Our recommendation: use the web-based [Overleaf](https://www.overleaf.com/latex/templates/bachelorthesis-hshl/bydmpbhxfqgq)).
-3. Choose main.tex as main document, that means compile main.tex. The following pdf should open:
+3. Choose main.tex as main document, that means compile main.tex. Choose TeX Live version <= 2023. The following pdf should open:
 ![image](https://user-images.githubusercontent.com/43642275/231692705-7359fac9-0975-472b-873a-22be89630f31.png)
 4. Now make changes in the main.tex from line 3-15. In the comments of the file is written, what is to be entered where.
 5. In the main.tex of time 68-57 you should adjust the affidavit for you. Add your name to lines 70 and 75.
