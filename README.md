@@ -53,7 +53,7 @@
 
 ### Make Changes in the Document
 - **List of Abbreviations:** If you need a list of abbreviations, you can use it in main.tex from line 38-43. If you don't need it, you can delete it or comment it out.
-In the list of abbreviations only those abbreviations are shown which are used in the text. Use in the text looks like this: \ac{abbreviation}
+In the list of abbreviations only those abbreviations are shown which are used in the text. Use in the text looks like this: ```~\ac{abbreviation}```
 - **Add or delete chapters:** In the main.tex you will find from line 47-54 the inclusion of the chapters. There you can add or delete chapters. If you want to add a chapter here, you should also create a new .tex file in the "Chapters" folder and refer to it in main.tex.
 
 ### Infos
