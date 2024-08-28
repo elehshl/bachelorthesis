@@ -64,5 +64,7 @@ In the list of abbreviations, only those abbreviations are shown which are used 
 - [Grammarly](https://app.grammarly.com/)
 
 ## Presentation
-If you are writing your thesis only at the University, please use the provided template PowerPoint_Template.potx.
-If you are writing your thesis in cooperation with a company, feel free to use the template of the company.
+- If you are writing your thesis only at the University, please use the provided template PowerPoint_Template.potx. If you are writing your thesis in cooperation with a company, feel free to use the template of the company.
+- Keep in mind that always start the presentation with a motivation!
+
+## Good luck! 🍀
