@@ -59,6 +59,9 @@ In the list of abbreviations, only those abbreviations are shown which are used 
 ### Infos
 - **Numbers:** In general, English numbers are only written out in full when they introduce a sentence or when small quantities are involved in a text, i.e. one (1) to nine (9). From ten (10) onwards, numbers are usually written numerically (i.e. as a number).
 - **Citation:** to add space automatically but don't write the source in the next line just use ``` ~\cite{citation} ```
+- **Number of pages**:
+	- Projectwork: min 35
+ 	- Bachelorthesis: min 50
 
 ### Extras
 - [Grammarly](https://app.grammarly.com/)
