@@ -73,6 +73,7 @@ In the list of abbreviations, only those abbreviations are shown which are used 
 ## 2. Presentation
 - If you are writing your thesis only at the University, please use the provided template PowerPoint_Template.potx. If you are writing your thesis in cooperation with a company, feel free to use the template of the company.
 - Keep in mind that you should always start the presentation with a motivation!
-- Presentation Time: 15 minutes, Questions: ca. 10 minutes
+- Presentation Time Bachelor Thesis: 15 minutes, Questions: ca. 10 minutes
+- Presentation Time Project Work: 10 minutes, Questions: ca. 10 minutes
 
 ## Good luck! 🍀
