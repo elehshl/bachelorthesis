@@ -69,6 +69,7 @@ In the list of abbreviations, only those abbreviations are shown which are used 
 
 ### 1.4 Extras
 - [Grammarly](https://app.grammarly.com/)
+- [Additional Information from HSHL side](https://studyassist.hshl.de/service/wissenschaftliches-arbeiten/helpful-support/checklists-and-templates/)
 
 ## 2. Presentation
 - If you are writing your thesis only at the University, please use the provided template PowerPoint_Template.potx. If you are writing your thesis in cooperation with a company, feel free to use the template of the company.
